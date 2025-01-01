@@ -1,0 +1,44 @@
+* {
+	
+}
+main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 3px solid gray;
+	border-radius: 12px;
+}
+
+h1 {
+	font-family: sans-serif;
+	margin-right: 100px;
+}
+
+input {
+	padding: 10px;
+	border-radius: 12px;
+	margin-left: 100px;
+	width: 300px;
+}
+
+button {
+	padding: 10px;
+	margin-left: 50px;
+	width: 100px;
+}
+
+#showName {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	text-align: center;
+	font-family: sans-serif;
+}
+h2 {
+	font-size: 100px;
+}
+.msg {
+	font-size: 50px;
+	background-color: lightgreen;
+}
